@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JakubLansky11
+- 👀 I’m interested in Python and data analysis. I also like sport and chess and reading books. 
+- 🌱 I’m currently learning Javascript and CSS. 
